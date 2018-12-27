@@ -19,6 +19,7 @@ class App extends Component {
           >
             Learn React
           </a>
+            <button className="ui button">Btn with Semantic-UI</button>
         </header>
       </div>
     );
